@@ -9,7 +9,7 @@
 - 💡 I'm currently focused on game and webpage development, and FiveM scripting,
 - ⚡ Come and join me on my streams for chill coding.
 
-![My stats](https://github-readme-stats.vercel.app/api?username=berkcantmr&show_icons=true&count_private=true)
+<!-- ![My stats](https://github-readme-stats.vercel.app/api?username=berkcantmr&show_icons=true&count_private=true) -->
 
 ### Connect with me:
 Berkcan#8226
