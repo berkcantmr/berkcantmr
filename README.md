@@ -1,28 +1,34 @@
-### Hello world, My name is Berk - BRK
-### BRK
+# Hi, I'm Berkcan 👋
 
-## I'm a Student, Developer, and Gamer
+I build open-source developer tools with **C# and .NET**, with a focus on reliable command-line experiences, automated testing, and repeatable release workflows.
 
-- 💡 I'm currently focused on game and webpage development, and FiveM scripting,
-- ⚡ Come and join me on my streams for chill coding.
+## Current project
 
-<!-- ![My stats](https://github-readme-stats.vercel.app/api?username=berkcantmr&show_icons=true&count_private=true) -->
+### [RepoDoctor](https://github.com/berkcantmr/RepoDoctor)
 
-### Connect with me:
-Berkcan#8226
+A cross-platform .NET CLI that checks whether a repository has the files and automation expected from a healthy open-source project.
 
-<br />
+- 14 repository-readiness checks with actionable recommendations
+- Text, JSON, and Markdown reports
+- Configurable policies and CI score gates
+- Tested on Linux, Windows, and macOS
+- Distributed as a versioned .NET tool package
 
-### Languages and Tools:
+[![CI](https://github.com/berkcantmr/RepoDoctor/actions/workflows/ci.yml/badge.svg)](https://github.com/berkcantmr/RepoDoctor/actions/workflows/ci.yml)
+[![Release](https://img.shields.io/github/v/release/berkcantmr/RepoDoctor)](https://github.com/berkcantmr/RepoDoctor/releases/latest)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/berkcantmr/RepoDoctor/blob/main/LICENSE)
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
-<img align="left" alt="Lua" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+## Open-source focus
 
-<br />
-<br />
+- C# and .NET tooling
+- Cross-platform CLI applications
+- Testing, CI, and release automation
+- Small, reviewable upstream contributions
 
+## Technologies
 
-[instagram]: https://www.instagram.com/berkcantmr0/
-### Idle, working on coding
-    
+`C#` · `.NET` · `xUnit` · `Git` · `GitHub Actions`
+
+## Collaboration
+
+I am growing RepoDoctor in public and contributing fixes and tests to projects I use. For project-related questions or ideas, open an issue in the relevant repository.
