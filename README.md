@@ -14,7 +14,7 @@ A cross-platform .NET CLI that checks whether a repository has the files and aut
 - Tested on Linux, Windows, and macOS
 - Distributed as a versioned .NET tool package
 
-[![CI](https://github.com/berkcantmr/snowy/actions/workflows/ci.yml/badge.svg)](https://github.com/berkcantmr/snowy/actions/workflows/ci.yml)
+[![CI](https://github.com/berkcantmr/repodoctor/actions/workflows/ci.yml/badge.svg)](https://github.com/berkcantmr/snowy/actions/workflows/ci.yml)
 [![Release](https://img.shields.io/github/v/release/berkcantmr/snowy)](https://github.com/berkcantmr/snowy/releases/latest)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/berkcantmr/snowy/blob/main/LICENSE)
 
