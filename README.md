@@ -4,7 +4,7 @@ I build open-source developer tools with **C# and .NET**, with a focus on reliab
 
 ## Current project
 
-### [RepoDoctor](https://github.com/berkcantmr/RepoDoctor)
+### [Snowy](https://github.com/berkcantmr/snowy)
 
 A cross-platform .NET CLI that checks whether a repository has the files and automation expected from a healthy open-source project.
 
@@ -14,9 +14,9 @@ A cross-platform .NET CLI that checks whether a repository has the files and aut
 - Tested on Linux, Windows, and macOS
 - Distributed as a versioned .NET tool package
 
-[![CI](https://github.com/berkcantmr/RepoDoctor/actions/workflows/ci.yml/badge.svg)](https://github.com/berkcantmr/RepoDoctor/actions/workflows/ci.yml)
-[![Release](https://img.shields.io/github/v/release/berkcantmr/RepoDoctor)](https://github.com/berkcantmr/RepoDoctor/releases/latest)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/berkcantmr/RepoDoctor/blob/main/LICENSE)
+[![CI](https://github.com/berkcantmr/snowy/actions/workflows/ci.yml/badge.svg)](https://github.com/berkcantmr/snowy/actions/workflows/ci.yml)
+[![Release](https://img.shields.io/github/v/release/berkcantmr/snowy)](https://github.com/berkcantmr/snowy/releases/latest)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/berkcantmr/snowy/blob/main/LICENSE)
 
 ## Open-source focus
 
