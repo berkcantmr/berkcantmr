@@ -5,11 +5,11 @@ I build open-source developer tools with **C# and .NET**, with a focus on reliab
 ## Current project
 
 ### [Snowy](https://github.com/berkcantmr/snowy)
+
+A cross-platform .NET CLI that checks whether a repository has the files and automation expected from a healthy open-source project.
 <a href="https://apps.microsoft.com/detail/9n8tbp63js3x?referrer=appbadge&mode=full" target="_blank"  rel="noopener noreferrer">
 	<img src="https://get.microsoft.com/images/en-us%20dark.svg" width="200"/>
 </a>
-A cross-platform .NET CLI that checks whether a repository has the files and automation expected from a healthy open-source project.
-
 - 14 repository-readiness checks with actionable recommendations
 - Text, JSON, and Markdown reports
 - Configurable policies and CI score gates
